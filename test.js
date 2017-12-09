@@ -1,2 +1,2 @@
-var a = b = 1;
+var a = b = 2;
 console.log(a+b);
